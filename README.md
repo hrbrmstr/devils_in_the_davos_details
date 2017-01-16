@@ -1,0 +1,8 @@
+
+Intended to go with [the blog post](https://wp.me/p23idr-1gO).
+
+Data from the WEF 2017 Global Risks report with some starter R code for exploring how various survey groups evaluated the risks.
+
+![](R/devils_in_the_davos_files/figure-html/zoom-1.png)
+
+![](R/devils_in_the_davos_files/figure-html/macro_opp-1.png)
